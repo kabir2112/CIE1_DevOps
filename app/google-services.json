@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "313152298149",
+    "firebase_url": "https://aahar-app-804d4-default-rtdb.firebaseio.com",
+    "project_id": "aahar-app-804d4",
+    "storage_bucket": "aahar-app-804d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313152298149:android:976c56f942523022d2414c",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuXgjZYs6nsyIOYHmpUPZDeKv9e6icWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
